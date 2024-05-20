@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Markmuraaaa
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning software engineering 
+- 🌱 I’m currently learning ict
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
